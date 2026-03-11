@@ -1,0 +1,5 @@
+E:/AllInOne/MyDiceRoll/DiceRoller/.utmp/RelWithDebInfo/412y4i3x/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/AllInOne/MyDiceRoll/DiceRoller/.utmp/RelWithDebInfo/412y4i3x/arm64-v8a/CMakeFiles/rebuild_cache.dir
+E:/AllInOne/MyDiceRoll/DiceRoller/.utmp/RelWithDebInfo/412y4i3x/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+E:/AllInOne/MyDiceRoll/DiceRoller/.utmp/RelWithDebInfo/412y4i3x/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+E:/AllInOne/MyDiceRoll/DiceRoller/.utmp/RelWithDebInfo/412y4i3x/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
