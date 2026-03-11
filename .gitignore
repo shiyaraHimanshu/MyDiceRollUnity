@@ -3,4 +3,32 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]ee/
-/[Logs]/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio / Rider / IDE generated files
+# This will stop the 27,000+ .csproj files from appearing
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Unity persistent files
+[Dd]erived[Dd]ata[Cc]ache/
+[Aa]ssets/AssetStoreTools*
+
+# Crash reports
+sysinfo.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
